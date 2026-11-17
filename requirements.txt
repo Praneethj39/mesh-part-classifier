@@ -1,0 +1,6 @@
+bpy==5.3.0
+numpy
+scikit-learn
+joblib
+trimesh
+torch

@@ -1,0 +1,38 @@
+[
+  {
+    "test": "clean",
+    "acc_full": 1.0,
+    "acc_without_size": 1.0,
+    "acc_augmented": 0.992
+  },
+  {
+    "test": "noise 1%",
+    "acc_full": 0.962,
+    "acc_without_size": 0.951,
+    "acc_augmented": 0.992
+  },
+  {
+    "test": "noise 3%",
+    "acc_full": 0.73,
+    "acc_without_size": 0.719,
+    "acc_augmented": 0.992
+  },
+  {
+    "test": "noise 5%",
+    "acc_full": 0.601,
+    "acc_without_size": 0.627,
+    "acc_augmented": 0.981
+  },
+  {
+    "test": "20% faces missing",
+    "acc_full": 0.711,
+    "acc_without_size": 0.753,
+    "acc_augmented": 1.0
+  },
+  {
+    "test": "50% faces missing",
+    "acc_full": 0.163,
+    "acc_without_size": 0.175,
+    "acc_augmented": 0.992
+  }
+]

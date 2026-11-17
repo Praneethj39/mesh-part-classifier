@@ -1,0 +1,26 @@
+[
+  {
+    "test": "clean",
+    "acc_pointnet": 1.0
+  },
+  {
+    "test": "noise 1%",
+    "acc_pointnet": 1.0
+  },
+  {
+    "test": "noise 3%",
+    "acc_pointnet": 1.0
+  },
+  {
+    "test": "noise 5%",
+    "acc_pointnet": 0.996
+  },
+  {
+    "test": "20% faces missing",
+    "acc_pointnet": 1.0
+  },
+  {
+    "test": "50% faces missing",
+    "acc_pointnet": 1.0
+  }
+]
